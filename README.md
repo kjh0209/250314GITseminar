@@ -1,1 +1,1 @@
-# 250314GITseminar
+# 250314GITsemina
